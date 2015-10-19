@@ -1,5 +1,6 @@
 # Open IoT Node PCB
-[Open Source Hardware Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Open-source-hardware-logo.svg/200px-Open-source-hardware-logo.svg.png)
+![Open Source Hardware Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Open-source-hardware-logo.svg/200px-Open-source-hardware-logo.svg.png)
+
 WebSite: [OpenIoTNode.com][REfOpenIoTNode]
 
 Open IoT Node PCB is an Open Source Hardware project sponsored by [Guapu Technologies][RefGuapuTechnologies].
