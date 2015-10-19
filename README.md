@@ -1,4 +1,6 @@
 # Open IoT Node PCB
+![Open IoT Node](http://www.guapu.es/wp-content/uploads/2015/09/Open-IoT-Node-Guapu1.png)
+
 ![Open Source Hardware Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Open-source-hardware-logo.svg/200px-Open-source-hardware-logo.svg.png)
 
 WebSite: [OpenIoTNode.com][REfOpenIoTNode]
