@@ -1,8 +1,8 @@
 # Open IoT Node PCB
-
+[Open Source Hardware Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Open-source-hardware-logo.svg/200px-Open-source-hardware-logo.svg.png)
 WebSite: [OpenIoTNode.com][REfOpenIoTNode]
 
-Open IoT Node is an Open project sponsored by Guapu Technologies.
+Open IoT Node PCB is an Open Source Hardware project sponsored by [Guapu Technologies][RefGuapuTechnologies].
 The goal of this project is to create an Open Hardware and Software Platform (OHSP) compatibles with the different standards present on the market: HomeKit, Google On, etc,
 
 ## Technologies
@@ -31,10 +31,6 @@ This project is based in three Radio Frequency technologies to provide a valid s
 * GSM/3G
 * Sensors Array
 * Solar Power + Battery
-
-
-Project Sponsored by [Guapu Technologies][RefGuapuTechnologies]
-
 
 
 [REfOpenIoTNode]: <http:/openiotnode.com>
