@@ -35,7 +35,7 @@ This project is based in three Radio Frequency technologies to provide a valid s
 
 Project Sponsored by [Guapu Technologies][RefGuapuTechnologies]
 
-// Reference links:
+
 
 [REfOpenIoTNode]: <http:/openiotnode.com>
 [RefGuapuTechnologies]: <http://guapu.es>  
