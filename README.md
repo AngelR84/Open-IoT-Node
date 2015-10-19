@@ -20,9 +20,9 @@ This project is based in three Radio Frequency technologies to provide a valid s
 
 ## Onboard Connectivity
 
-*1 x i2C
-*1 x UART
-*1 x SPI
+* +1 x i2C
+* +1 x UART
+* +1 x SPI
 
 ##Expansion Boards
 
