@@ -24,7 +24,7 @@ This project is based in three Radio Frequency technologies to provide a valid s
 * +1 x UART
 * +1 x SPI
 
-##Expansion Boards
+##Extras
 
 * GPS
 * GSM/3G
