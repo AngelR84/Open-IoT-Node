@@ -18,7 +18,7 @@ This project is based in three Radio Frequency technologies to provide a valid s
 * Machine To Machine (M2M)
 * Mesh Network
 
-## Onboard Connectivity
+## Onboard Connections
 
 * +1 x i2C
 * +1 x UART
